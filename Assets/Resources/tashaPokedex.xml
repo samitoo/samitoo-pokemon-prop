@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pokemonCollection>
+  <pokedex>
+    <pokemon id="25">
+		<name>pikachu</name>
+		<type>"ELECTRIC"</type>
+		<level>1</level>
+		<xp>1</xp>
+		<hp>35</hp>
+		<currentHP>35</currentHP>
+		<attack>55</attack>
+		<defense>30</defense>
+		<speed>90</speed>
+		<special>50</special>
+		<total>260</total>
+		<average>52</average>
+		<imageBack>Pokemon/Back/PikachuBack</imageBack>
+		<imageFront>Pokemon/Front/PikachuFront1</imageFront>
+		<imageFront2>Pokemon/Front/PikachuFront2</imageFront2>
+	</pokemon>
+	<pokemon id="63">
+		<name>abra</name>
+		<type>"PSYCHIC"</type>
+		<level>1</level>
+		<xp>1</xp>
+		<hp>25</hp>
+		<currentHP>25</currentHP>
+		<attack>20</attack>
+		<defense>15</defense>
+		<speed>90</speed>
+		<special>105</special>
+		<total>255</total>
+		<average>51</average>
+		<imageBack>Pokemon/Back/AbraBack</imageBack>
+		<imageFront>Pokemon/Front/AbraFront1</imageFront>
+		<imageFront2>Pokemon/Front/AbraFront2</imageFront2>
+	</pokemon>
+	<pokemon id="4">
+		<name>charmander</name>
+		<type>"FIRE"</type>
+		<level>1</level>
+		<xp>1</xp>
+		<hp>39</hp>
+		<currentHP>39</currentHP>
+		<attack>52</attack>
+		<defense>43</defense>
+		<speed>65</speed>
+		<special>50</special>
+		<total>249</total>
+		<average>49.8</average>
+		<imageBack>Pokemon/Back/CharmanderBack</imageBack>
+		<imageFront>Pokemon/Front/CharmanderFront1</imageFront>
+		<imageFront2>Pokemon/Front/CharmanderFront2</imageFront2>
+	</pokemon>
+	<pokemon id="133">
+		<name>eevee</name>
+		<type>"NORMAL"</type>
+		<level>1</level>
+		<xp>1</xp>
+		<hp>55</hp>
+		<currentHP>55</currentHP>
+		<attack>55</attack>
+		<defense>50</defense>
+		<speed>55</speed>
+		<special>65</special>
+		<total>280</total>
+		<average>56</average>
+		<imageBack>Pokemon/Back/EeveeBack</imageBack>
+		<imageFront>Pokemon/Front/EeveeFront1</imageFront>
+		<imageFront2>Pokemon/Front/EeveeFront2</imageFront2>
+	</pokemon>
+	<pokemon id="16">
+		<name>pidgey</name>
+		<type>"FLYING"</type>
+		<level>1</level>
+		<xp>1</xp>
+		<hp>40</hp>
+		<currentHP>40</currentHP>
+		<attack>45</attack>
+		<defense>40</defense>
+		<speed>56</speed>
+		<special>35</special>
+		<total>216</total>
+		<average>43.2</average>
+		<imageBack>Pokemon/Back/PidgeyBack</imageBack>
+		<imageFront>Pokemon/Front/PidgeyFront1</imageFront>
+		<imageFront2>Pokemon/Front/PidgeyFront2</imageFront2>
+	</pokemon>
+  </pokedex>
+</pokemonCollection>

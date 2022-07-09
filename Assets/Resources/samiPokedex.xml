@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pokemonCollection>
+  <pokedex>
+    <pokemon id="52">
+      <name>meowth</name>
+      <type>"NORMAL"</type>
+      <level>1</level>
+	  <xp>1</xp>
+      <hp>40</hp>
+	  <currentHP>40</currentHP>
+      <attack>45</attack>
+      <defense>35</defense>
+      <speed>90</speed>
+      <special>40</special>
+      <total>250</total>
+      <average>50</average>
+      <imageBack></imageBack>
+      <imageFront>Pokemon/Front/MeowthFront1</imageFront>
+      <imageFront2>Pokemon/Front/MeowthFront2</imageFront2>
+    </pokemon>
+    <pokemon id="74">
+      <name>geodude</name>
+      <type>"ROCK"</type>
+      <level>1</level>
+	  <xp>1</xp>
+      <hp>40</hp>
+	  <currentHP>40</currentHP>
+      <attack>80</attack>
+      <defense>100</defense>
+      <speed>20</speed>
+      <special>30</special>
+      <total>270</total>
+      <average>54</average>
+      <imageBack></imageBack>
+      <imageFront>Pokemon/Front/GeodudeFront1</imageFront>
+      <imageFront2>Pokemon/Front/GeodudeFront2</imageFront2>
+    </pokemon>
+    <pokemon id="7">
+      <name>squirtle</name>
+      <type>"WATER"</type>
+      <level>1</level>
+	  <xp>1</xp>
+      <hp>44</hp>
+	  <currentHP>44</currentHP>
+      <attack>48</attack>
+      <defense>65</defense>
+      <speed>43</speed>
+      <special>50</special>
+      <total>250</total>
+      <average>50</average>
+      <imageBack></imageBack>
+      <imageFront>Pokemon/Front/SquirtleFront1</imageFront>
+      <imageFront2>Pokemon/Front/SquirtleFront2</imageFront2>
+    </pokemon>
+    <pokemon id="19">
+      <name>rattata</name>
+      <type>"NORMAL"</type>
+      <level>1</level>
+	  <xp>1</xp>
+      <hp>30</hp>
+	  <currentHP>30</currentHP>
+      <attack>56</attack>
+      <defense>35</defense>
+      <speed>72</speed>
+      <special>25</special>
+      <total>218</total>
+      <average>43.6</average>
+      <imageBack>Pokemon/Front/RattataFront1</imageBack>
+      <imageFront>Pokemon/Front/RattataFront2</imageFront>
+      <imageFront2></imageFront2>
+    </pokemon>
+    <pokemon id="109">
+      <name>koffing</name>
+      <type>"POISON"</type>
+      <level>1</level>
+	  <xp>1</xp>
+      <hp>40</hp>
+	  <currentHP>40</currentHP>
+      <attack>65</attack>
+      <defense>95</defense>
+      <speed>35</speed>
+      <special>60</special>
+      <total>295</total>
+      <average>59</average>
+      <imageBack></imageBack>
+      <imageFront>Pokemon/Front/KoffingFront1</imageFront>
+      <imageFront2>Pokemon/Front/KoffingFront2</imageFront2>
+    </pokemon>
+  </pokedex>
+</pokemonCollection>

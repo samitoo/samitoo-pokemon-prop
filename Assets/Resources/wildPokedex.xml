@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pokemonCollection>
+  <pokedex>
+    <pokemon id="16">
+		<name>pidgey</name>
+		<type>FLYING</type>
+		<level>1</level>
+		<xp>1</xp>
+		<hp>40</hp>
+		<currentHP>40</currentHP>
+		<attack>45</attack>
+		<defense>40</defense>
+		<speed>56</speed>
+		<special>35</special>
+		<total>216</total>
+		<average>43.2</average>
+		<imageBack></imageBack>
+		<imageFront>Pokemon/Front/PidgeyFront1</imageFront>
+		<imageFront2>Pokemon/Front/PidgeyFront2</imageFront2>
+	</pokemon>
+	<pokemon id="19">
+		<name>rattata</name>
+		<type>NORMAL</type>
+		<level>1</level>
+		<xp>1</xp>
+		<hp>30</hp>
+		<currentHP>30</currentHP>
+		<attack>56</attack>
+		<defense>35</defense>
+		<speed>72</speed>
+		<special>25</special>
+		<total>218</total>
+		<average>43.6</average>
+		<imageBack></imageBack>
+		<imageFront>Pokemon/Front/RattataFront1</imageFront>
+		<imageFront2>Pokemon/Front/RattataFront2</imageFront2>
+	</pokemon>
+	<pokemon id="10">
+		<name>caterpie</name>
+		<type>BUG</type>
+		<level>1</level>
+		<xp>1</xp>
+		<hp>45</hp>
+		<currentHP>45</currentHP>
+		<attack>30</attack>
+		<defense>35</defense>
+		<speed>45</speed>
+		<special>20</special>
+		<total>175</total>
+		<average>35</average>
+		<imageBack></imageBack>
+		<imageFront>Pokemon/Front/CaterpieFront1</imageFront>
+		<imageFront2>Pokemon/Front/CaterpieFront2</imageFront2>
+	</pokemon>
+  </pokedex>
+</pokemonCollection>

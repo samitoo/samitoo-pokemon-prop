@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: e759e4e300f3254439262980ad86043b
+timeCreated: 1458155010
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sameraSheet_0
+    21300002: sameraSheet_1
+    21300004: sameraSheet_2
+    21300006: sameraSheet_3
+    21300008: sameraSheet_4
+    21300010: sameraSheet_5
+    21300012: sameraSheet_6
+    21300014: sameraSheet_7
+    21300016: sameraSheet_8
+    21300018: sameraSheet_9
+    21300020: sameraSheet_10
+    21300022: sameraSheet_11
+    21300024: sameraSheet_12
+    21300026: sameraSheet_13
+    21300028: sameraSheet_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sameraSheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sameraSheet_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 7
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sameraSheet_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sameraSheet_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sameraSheet_4
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 11
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sameraSheet_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 7
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sameraSheet_6
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 7
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sameraSheet_7
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 11
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sameraSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 11
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sameraSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 7
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sameraSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 11
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sameraSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 7
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sameraSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 7
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sameraSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 7
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sameraSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 4
+        width: 88
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
